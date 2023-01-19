@@ -17,7 +17,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4296C7?style=for-the-badge&logo=LinkedIn)][linkedin]
 [![Telegram](https://img.shields.io/badge/Telegram-4296C7?style=for-the-badge&logo=Telegram&logoColor=00007C)][telegram]
 [![Facebook](https://img.shields.io/badge/Facebook-4296C7?style=for-the-badge&logo=Facebook&logoColor=144FC7)][facebook]
-[![Gmail](https://img.shields.io/badge/Gmail-4296C7?style=for-the-badge&logo=Gmail&logoColor=FF0202)][gmail]
+
 
 
 
@@ -29,4 +29,3 @@
 [linkedin]:https://www.linkedin.com/in/alona-bohdanets
 [telegram]: https://t.me/alona_bohdanets
 [facebook]: https://www.facebook.com/profile.php?id=100021943793982
-[gmail]: mailto:alenaskroful@gmail.com
